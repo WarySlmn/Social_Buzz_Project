@@ -17,4 +17,4 @@ Simulation de poste d'analyse et de visualisation de données Accenture Amériqu
    stratégiques
  * J'ai préparé un dossier PowerPoint et une présentation vidéo pour communiquer
    des informations clés au client et aux parties prenantes internes.
-<img src="W:\IDMC\Alex Analyste\Social Buzz\certificat.png" alt="Aperçu du projet" width="500">
+![Description de l'image](images/certificat.png)
