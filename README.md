@@ -6,3 +6,14 @@ Projet mis en place par Accenture pour accompagner Social Buzz, une plateforme d
 -Nettoyage des données
 -Modélisation des données
 -Visualisation des deonnées
+
+
+Simulation de poste d'analyse et de visualisation de données Accenture Amérique du Nord sur Forage - février 2025
+
+ * J'ai réalisé une simulation axée sur le conseil à un client hypothétique des
+   médias sociaux en tant qu'analyste de données chez Accenture
+ * Nettoyé, modélisé et analysé 7 ensembles de données pour découvrir des
+   informations sur les tendances de contenu afin d'éclairer les décisions
+   stratégiques
+ * J'ai préparé un dossier PowerPoint et une présentation vidéo pour communiquer
+   des informations clés au client et aux parties prenantes internes.
