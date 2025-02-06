@@ -17,4 +17,4 @@ Simulation de poste d'analyse et de visualisation de données Accenture Amériqu
    stratégiques
  * J'ai préparé un dossier PowerPoint et une présentation vidéo pour communiquer
    des informations clés au client et aux parties prenantes internes.
-![Description de l'image](images/certificat.png)
+![Description de l'image](images/certificat.jng)
